@@ -10,7 +10,7 @@ Notebooks:
 
 .txt files: 
 
-* craII_peric.txt: 
-* herc_peric.txt: 
+* craII_peric.txt: Text file containing the results of the Monte Carlo analysis for the orbit of Crater II. 
+* herc_peric.txt: Text file containing the results of the Monte Carlo analysis for the orbit of Hercules. 
 
 The PDF files in this repository are figures from the paper which were generated using the analysis presented in the notebooks. 
